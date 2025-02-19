@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Elias and I'm a computer technician, from Brazil </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/solo-leveling-statue-smile-solo-leveling-statue-smile-gif-2074285987229653283.gif"  />
 
 ###
 
